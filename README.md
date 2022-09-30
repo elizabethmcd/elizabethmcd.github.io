@@ -1,8 +1,8 @@
-# README 
+# README
 
 This repository hosts Elizabeth McDaniel's personal website built with [Quarto](https://quarto.org/) and rendered with Github Pages.
 
-### Build Instructions 
+### Build Instructions
 
 1.  Install `quarto` on your machine following [these instructions](https://quarto.org/docs/get-started/). If you are new to contributing to Quarto websites, check out [this guide](https://quarto.org/docs/websites/).
 

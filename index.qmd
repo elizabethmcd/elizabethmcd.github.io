@@ -4,7 +4,7 @@ image: img/profile.jpg
 page-layout: full
 about:
   template: trestles
-  image-width: 25em
+  image-width: 20em
   image-shape: round
   links:
     - icon: twitter
