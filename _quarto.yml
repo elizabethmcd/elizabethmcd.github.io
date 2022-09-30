@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Elizabeth McDaniel"
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications & Projects
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+editor: visual
+

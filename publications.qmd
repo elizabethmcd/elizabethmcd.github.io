@@ -1,0 +1,39 @@
+---
+title: "Publications & Projects"
+editor: visual
+---
+
+*[Google Scholar Profile.](https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en)*
+
+## Academic Publications
+
+*\# Denotes equal contribution.*
+
+**13. Expanded diversity of tfdA harboring bacteria across the natural and built environment.** #White A.M., #Gonzalez Vasquez A., **McDaniel E.A.**, Peterson B.D., Koch P.L, Remucal C.K., McMahon K.D. *bioRxiv. Submitted.* September 2022. DOI: 10.1101/2022.09.28.509959 [preprint](https://www.biorxiv.org/content/10.1101/2022.09.28.509959v1) [data](https://figshare.com/projects/Expanded_diversity_of_tfdA_harboring_bacteria_across_the_natural_and_built_environment/145275)
+
+**12. Re-evaluation of the phylogenetic diversity and global distribution of the lineage Candidatus Accumulibacter.** Petriglieri F., Singleton C.M., Kondrotaite Z., Dueholm M.S., **McDaniel E.A.,** McMahon K.D., Nielsen P.H. *mSystems*. April 2022. DOI: 10.1128/msystems.00016-22. [preprint](https://www.biorxiv.org/content/10.1101/2021.12.20.473458v1) [publication](https://journals.asm.org/doi/10.1128/msystems.00016-22)
+
+**11. Environmental predictors of electroactive bacterioplankton in small boreal lakes.** Olmsted C.N., Ort R., Tran P.Q., **McDaniel E.A.**, Robert E.E., Bond D.R., He S., McMahon K.D. *bioRxiv. Under Review.* Mar 2022. DOI: 10.1101/2022.03.26.485925. [preprint](https://www.biorxiv.org/content/10.1101/2022.03.26.485925v1)
+
+**10. TbasCO: Trait-Based Comparative 'Omics Identifies Ecosystem-Level and Niche-Differentiating Adaptations in an Engineered Microbiome. #McDaniel E.A.**, #van Steenbrugge, J.J.M, Noguera D.R., McMahon K.D., Raaijmakers J.M., Medema M.H., Oyserman B.O. *bioRxiv. Accepted.* Dec. 2021. DOI: 10.1101/2021.11.30.467465 [preprint](https://www.biorxiv.org/content/10.1101/2021.12.04.471239v1) [software](https://github.com/elizabethmcd/EBPR-MAGs) [code](https://github.com/elizabethmcd/EBPR-MAGs) [BioProject](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA714686) [data](https://figshare.com/projects/EBPR_Trait-Based_Comparative_Omics/90437)
+
+**9. Microbial cysteine production is a source of hydrogen sulfide in oxic freshwater lakes.** #Tran P.Q., #Bachand S.C., #Hotvedt J.C., Kieft K, **McDaniel E.A.**, McMahon K.D., Anantharaman K. *bioRxiv. Submitted.* Dec 2021. DOI: 10.1101/2021.11.30.467465 [preprint](https://www.biorxiv.org/content/10.1101/2021.11.30.467465v2.abstract)
+
+**8. Prospects for Multi-omics in the Microbial Ecology of Water Engineering. McDaniel E.A.**, Wahl S.A., Ishii S., Pinto A., Ziels R., Nielsen P.H., McMahon K.D., Williams R.B.H. *Water Research.* Oct. 2021. DOI: 10.1016/j.waterres.2021.117608 [preprint](https://arxiv.org/pdf/2105.08856.pdf) [publication](https://www.sciencedirect.com/science/article/abs/pii/S0043135421008034)
+
+**7. Metabolic differentiation of co-occurring Accumulibacter clades revealed through genome-resolved metatranscriptomics. #McDaniel E.A.**, #Moya-Flores F., Keene Beach N., Camejo P.Y., Oyserman B.O., Kizaric M., Khor E.H., Noguera D.R., McMahon K.D. *mSystems.* July 2021, 6 (4) e00474-21; DOI: 10.1128/mSystems.00474-21 [preprint](https://www.biorxiv.org/content/10.1101/2020.11.23.394700v3) [publication](https://journals.asm.org/doi/10.1128/mSystems.00474-21) [code](https://github.com/elizabethmcd/R3R4) [BioProject](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA668760) [data](https://figshare.com/projects/Metabolic_Plasticity_of_Accumulibacter_Clades/90614)
+
+**6. Genome-Resolved Metagenomics of a Photosynthetic Bioreactor Performing Biological Nutrient Removal. McDaniel E.A.**, Wever R., Oyserman B.O., Noguera D.R., McMahon K.D. *Microbiology Resource Announcements.* May 2021, 10 (18) e00244-21; DOI: 10.1128/MRA.00244-21 [publication](https://journals.asm.org/doi/full/10.1128/MRA.00244-21) [code](https://github.com/elizabethmcd/obscurePOS) [BioProject](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA704939) [data](https://figshare.com/projects/POB_Genome-Resolved_Metagenomics/99704)
+
+**5. Community-led, integrated, reproducible multi-omics with anvi\'o.** Eren A.M., Kiefl E., Shaiber A., Veseli I., Miller S.E., Schecter M.S., Fink I., Pan J.N., Yousef M., Fogarty E.C., Trigodet F., Watson A.R., Esen O.C., Moore R.M., Clayssen Q., Lee M.D., Kivenson V., Graham E.D., Merrill B.D., Karkman A., Blankenberg D., Eppley J.M., Sjoden A., Scott J.J., Vazquez-Campos X., McKay L.J, **McDaniel E.A.,** Stevens S.L.R., Anderson R., Fuessel J., Fernandez-Guerra A., Maignien L., Delmont T.O., Willis A.D. *Nature Microbiology (Commentary).* Jan. 2021, 6, 3-6. DOI: 10.1038/s41564-020-00834-3. [publication](https://www.nature.com/articles/s41564-020-00834-3)
+
+**4. Mercury methylation genes identified across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake.** Peterson B.D., **McDaniel E.A.,** Schmidt A.G., Lepak R.F., Tran P.Q., Marick R.A., Ogorek J.M., DeWild J.F., Krabbenhoft D.P., McMahon K.D. *Environmental Science and Technology.* Nov. 2020, 54 (24), 15840-15851; DOI: 10.1021/acs.est.0c05435 [preprint](https://www.biorxiv.org/content/10.1101/2020.04.01.018762v1) [publication](https://pubs.acs.org/doi/10.1021/acs.est.0c05435) [data](https://osf.io/9vwgt/)
+
+**3. Expanded Phylogenetic Diversity and Metabolic Flexibility of Mercury-Methylating Microorganisms. McDaniel E.A.**, Peterson B., Stevens S.L.R., Tran P.Q., Anantharaman K., McMahon K.D. *mSystems.* Aug 2020, 5 (4) e00299-20; DOI: 10.1128/mSystems.00299-20 [preprint](https://www.biorxiv.org/content/10.1101/2020.01.16.909358v1) [publication](https://journals.asm.org/doi/10.1128/mSystems.00299-20) [code](https://github.com/elizabethmcd/MEHG) [data](https://figshare.com/projects/Expanded_Diversity_and_Metabolic_Flexibility_of_Microbial_Mercury_Methylation/70361)
+
+**2. metabolisHMM: Phylogenomic analysis for exploration of microbial phylogenies and metabolic pathways. McDaniel E.A.**, Anantharaman, K., McMahon K.D. *bioRxiv.* Dec. 2019, DOI: 10.1101/2019.12.20.884627. [preprint](https://www.biorxiv.org/content/10.1101/2019.12.20.884627v2.abstract) [software](https://github.com/elizabethmcd/metabolisHMM)
+
+**1. Independent Mechanisms for Acquired Salt Tolerance versus Growth Resumption Induced by Mild Ethanol Pretreatment in Saccharomyces cerevisiae. McDaniel E.A.**, Stuecker T.N., Veluvolu M., Gasch A.P., Lewis J.A. *mSphere. Editors Pick.* Nov 2018, 3 (6) e0057418; DOI: 10.1128/mSphere.00574-18 [preprint](https://www.biorxiv.org/content/10.1101/445726v2) [publication](https://journals.asm.org/doi/full/10.1128/mSphere.00574-18)
+
+[\
+](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OJFxBWMAAAAJ&citation_for_view=OJFxBWMAAAAJ:d1gkVwhDpl0C)

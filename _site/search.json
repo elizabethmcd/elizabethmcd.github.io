@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elizabeth McDaniel",
+    "section": "",
+    "text": "I received my PhD in the Microbiology Doctoral Training Program at the University of Wisconsin-Madison with Dr. Katherine McMahon studying lab-scale enrichment systems simulating phosphorus removal using multi-omics techniques. I earned my B.S. in Biology with a minor in Statistics at the University of Arkansas - Fayetteville and was an undergraduate research assistant in Dr. Jeffrey Lewis’ Lab studying natural variation of stress responses in yeast.\nPrior to my position at Arcadia Science, I was a postdoctoral researcher at the University of British Columbia with Dr. Ryan Ziels and Dr. Steven Hallam in the Departments of Civil Engineering and Microbiology and Immunology working on the microbial ecology of anaerobic digestion systems."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Elizabeth McDaniel",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sep 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sep 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Elizabeth McDaniel",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present"
+  },
+  {
+    "objectID": "index.html#geoscynce-chief-analyst-spet-2012---april-2018",
+    "href": "index.html#geoscynce-chief-analyst-spet-2012---april-2018",
+    "title": "Elizabeth McDaniel",
+    "section": "GeoScynce | Chief Analyst | Spet 2012 - April 2018",
+    "text": "GeoScynce | Chief Analyst | Spet 2012 - April 2018\nHello! My name is Elizabeth McDaniel and I am a Scientist at Arcadia Science creating open-source and reproducible computational workflows."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Information",
+    "section": "",
+    "text": "The best way to contact me is at the email address above. Arcadia Science is reimagining scientific publishing and does not publish our work in traditional peer-reviewed journals. Therefore, I do not accept requests to review for peer-reviewed journals. However, Arcadia Science regularly engages in reviewing preprints and posting public comments. If you have a preprint that you think I might be interested in reviewing, please email me with the preprint link and I will do my best to review it and post a public comment. My expertise spans environmental microbiology and computational biology, with specific emphasis on microbial ecology of engineered water systems and multi-omics approaches.\nDuring my PhD and postdoc, I was incredibly dedicated to practicing reproducible and open research by publicly providing associated code and datasets with each of my publications. For each manuscript on my Publications page, I have provided a PDF copy for download, links to code workflows available on Github, datasets on Figshare, and/or genomes/meta-omics datasets available on NCBI. Should you have any problems downloading a manuscript that may be behind a paywall for you, or have any questions about my code/datasets, please do not hesitate to contact me at the email address above."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Projects",
+    "section": "",
+    "text": "Google Scholar Profile."
+  },
+  {
+    "objectID": "publications.html#academic-publications",
+    "href": "publications.html#academic-publications",
+    "title": "Publications & Projects",
+    "section": "Academic Publications",
+    "text": "Academic Publications\n# Denotes equal contribution.\n13. Expanded diversity of tfdA harboring bacteria across the natural and built environment. #White A.M., #Gonzalez Vasquez A., McDaniel E.A., Peterson B.D., Koch P.L, Remucal C.K., McMahon K.D. bioRxiv. Submitted. September 2022. DOI: 10.1101/2022.09.28.509959 preprint data\n12. Re-evaluation of the phylogenetic diversity and global distribution of the lineage Candidatus Accumulibacter. Petriglieri F., Singleton C.M., Kondrotaite Z., Dueholm M.S., McDaniel E.A., McMahon K.D., Nielsen P.H. mSystems. April 2022. DOI: 10.1128/msystems.00016-22. preprint publication\n11. Environmental predictors of electroactive bacterioplankton in small boreal lakes. Olmsted C.N., Ort R., Tran P.Q., McDaniel E.A., Robert E.E., Bond D.R., He S., McMahon K.D. bioRxiv. Under Review. Mar 2022. DOI: 10.1101/2022.03.26.485925. preprint\n10. TbasCO: Trait-Based Comparative ’Omics Identifies Ecosystem-Level and Niche-Differentiating Adaptations in an Engineered Microbiome. #McDaniel E.A., #van Steenbrugge, J.J.M, Noguera D.R., McMahon K.D., Raaijmakers J.M., Medema M.H., Oyserman B.O. bioRxiv. Accepted. Dec. 2021. DOI: 10.1101/2021.11.30.467465 preprint software code BioProject data\n9. Microbial cysteine production is a source of hydrogen sulfide in oxic freshwater lakes. #Tran P.Q., #Bachand S.C., #Hotvedt J.C., Kieft K, McDaniel E.A., McMahon K.D., Anantharaman K. bioRxiv. Submitted. Dec 2021. DOI: 10.1101/2021.11.30.467465 preprint\n8. Prospects for Multi-omics in the Microbial Ecology of Water Engineering. McDaniel E.A., Wahl S.A., Ishii S., Pinto A., Ziels R., Nielsen P.H., McMahon K.D., Williams R.B.H. Water Research. Oct. 2021. DOI: 10.1016/j.waterres.2021.117608 preprint publication\n7. Metabolic differentiation of co-occurring Accumulibacter clades revealed through genome-resolved metatranscriptomics. #McDaniel E.A., #Moya-Flores F., Keene Beach N., Camejo P.Y., Oyserman B.O., Kizaric M., Khor E.H., Noguera D.R., McMahon K.D. mSystems. July 2021, 6 (4) e00474-21; DOI: 10.1128/mSystems.00474-21 preprint publication code BioProject data\n6. Genome-Resolved Metagenomics of a Photosynthetic Bioreactor Performing Biological Nutrient Removal. McDaniel E.A., Wever R., Oyserman B.O., Noguera D.R., McMahon K.D. Microbiology Resource Announcements. May 2021, 10 (18) e00244-21; DOI: 10.1128/MRA.00244-21 publication code BioProject data\n5. Community-led, integrated, reproducible multi-omics with anvi'o. Eren A.M., Kiefl E., Shaiber A., Veseli I., Miller S.E., Schecter M.S., Fink I., Pan J.N., Yousef M., Fogarty E.C., Trigodet F., Watson A.R., Esen O.C., Moore R.M., Clayssen Q., Lee M.D., Kivenson V., Graham E.D., Merrill B.D., Karkman A., Blankenberg D., Eppley J.M., Sjoden A., Scott J.J., Vazquez-Campos X., McKay L.J, McDaniel E.A., Stevens S.L.R., Anderson R., Fuessel J., Fernandez-Guerra A., Maignien L., Delmont T.O., Willis A.D. Nature Microbiology (Commentary). Jan. 2021, 6, 3-6. DOI: 10.1038/s41564-020-00834-3. publication\n4. Mercury methylation genes identified across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake. Peterson B.D., McDaniel E.A., Schmidt A.G., Lepak R.F., Tran P.Q., Marick R.A., Ogorek J.M., DeWild J.F., Krabbenhoft D.P., McMahon K.D. Environmental Science and Technology. Nov. 2020, 54 (24), 15840-15851; DOI: 10.1021/acs.est.0c05435 preprint publication data\n3. Expanded Phylogenetic Diversity and Metabolic Flexibility of Mercury-Methylating Microorganisms. McDaniel E.A., Peterson B., Stevens S.L.R., Tran P.Q., Anantharaman K., McMahon K.D. mSystems. Aug 2020, 5 (4) e00299-20; DOI: 10.1128/mSystems.00299-20 preprint publication code data\n2. metabolisHMM: Phylogenomic analysis for exploration of microbial phylogenies and metabolic pathways. McDaniel E.A., Anantharaman, K., McMahon K.D. bioRxiv. Dec. 2019, DOI: 10.1101/2019.12.20.884627. preprint software\n1. Independent Mechanisms for Acquired Salt Tolerance versus Growth Resumption Induced by Mild Ethanol Pretreatment in Saccharomyces cerevisiae. McDaniel E.A., Stuecker T.N., Veluvolu M., Gasch A.P., Lewis J.A. mSphere. Editors Pick. Nov 2018, 3 (6) e0057418; DOI: 10.1128/mSphere.00574-18 preprint publication"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "<p class=‘text-right’><a href=‘https://docs.google.com/document/d/1cSttsC-4h2e9-6RBJzSJMV4BF6Rp9QiW/edit’ target=‘_blank’><iframe width=‘100%’ height=‘900px’ frameborder=‘0’ scrolling=‘yes’ class=‘embed-responsive-item’ src=‘https://docs.google.com/document/d/1cSttsC-4h2e9-6RBJzSJMV4BF6Rp9QiW/preview’ allowfullscreen></iframe>"
+  }
+]
