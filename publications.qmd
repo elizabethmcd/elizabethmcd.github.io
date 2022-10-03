@@ -3,11 +3,13 @@ title: "Publications & Projects"
 editor: visual
 ---
 
-*[Google Scholar Profile.](https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en)*
+[*Google Scholar Profile.*](https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en)
 
 ## Academic Publications
 
 *\# Denotes equal contribution.*
+
+**14. Signatures of Microbial Diversity at Multiple Scales of Resolution within Engineered Enrichment Communities. McDaniel E.A.**, Moya-Flores F., Mendez D., Weathersby C., Oyserman B.O., Flowers J., He S., Petriglieri F., Singleton C.M., Nielsen P.H., McMahon K.D. *bioRxiv.* October 2022. DOI: 10.1101/2022.10.01.510452 [preprint](https://www.biorxiv.org/content/10.1101/2022.10.01.510452v1?rss=1) [code](https://github.com/elizabethmcd/MicDiv) [Abigail supplementary data](https://figshare.com/projects/Abigail_EBPR_Bioreactor/149212) [R1 supplementary data](https://figshare.com/projects/R1_EBPR_Bioreactor_Long-Term_Time-Series/149209) [Abigail BioProject](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA881609) [R1 BioProject](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA881607)
 
 **13. Expanded diversity of tfdA harboring bacteria across the natural and built environment.** #White A.M., #Gonzalez Vasquez A., **McDaniel E.A.**, Peterson B.D., Koch P.L, Remucal C.K., McMahon K.D. *bioRxiv. Submitted.* September 2022. DOI: 10.1101/2022.09.28.509959 [preprint](https://www.biorxiv.org/content/10.1101/2022.09.28.509959v1) [data](https://figshare.com/projects/Expanded_diversity_of_tfdA_harboring_bacteria_across_the_natural_and_built_environment/145275)
 
@@ -25,7 +27,7 @@ editor: visual
 
 **6. Genome-Resolved Metagenomics of a Photosynthetic Bioreactor Performing Biological Nutrient Removal. McDaniel E.A.**, Wever R., Oyserman B.O., Noguera D.R., McMahon K.D. *Microbiology Resource Announcements.* May 2021, 10 (18) e00244-21; DOI: 10.1128/MRA.00244-21 [publication](https://journals.asm.org/doi/full/10.1128/MRA.00244-21) [code](https://github.com/elizabethmcd/obscurePOS) [BioProject](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA704939) [data](https://figshare.com/projects/POB_Genome-Resolved_Metagenomics/99704)
 
-**5. Community-led, integrated, reproducible multi-omics with anvi\'o.** Eren A.M., Kiefl E., Shaiber A., Veseli I., Miller S.E., Schecter M.S., Fink I., Pan J.N., Yousef M., Fogarty E.C., Trigodet F., Watson A.R., Esen O.C., Moore R.M., Clayssen Q., Lee M.D., Kivenson V., Graham E.D., Merrill B.D., Karkman A., Blankenberg D., Eppley J.M., Sjoden A., Scott J.J., Vazquez-Campos X., McKay L.J, **McDaniel E.A.,** Stevens S.L.R., Anderson R., Fuessel J., Fernandez-Guerra A., Maignien L., Delmont T.O., Willis A.D. *Nature Microbiology (Commentary).* Jan. 2021, 6, 3-6. DOI: 10.1038/s41564-020-00834-3. [publication](https://www.nature.com/articles/s41564-020-00834-3)
+**5. Community-led, integrated, reproducible multi-omics with anvi'o.** Eren A.M., Kiefl E., Shaiber A., Veseli I., Miller S.E., Schecter M.S., Fink I., Pan J.N., Yousef M., Fogarty E.C., Trigodet F., Watson A.R., Esen O.C., Moore R.M., Clayssen Q., Lee M.D., Kivenson V., Graham E.D., Merrill B.D., Karkman A., Blankenberg D., Eppley J.M., Sjoden A., Scott J.J., Vazquez-Campos X., McKay L.J, **McDaniel E.A.,** Stevens S.L.R., Anderson R., Fuessel J., Fernandez-Guerra A., Maignien L., Delmont T.O., Willis A.D. *Nature Microbiology (Commentary).* Jan. 2021, 6, 3-6. DOI: 10.1038/s41564-020-00834-3. [publication](https://www.nature.com/articles/s41564-020-00834-3)
 
 **4. Mercury methylation genes identified across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake.** Peterson B.D., **McDaniel E.A.,** Schmidt A.G., Lepak R.F., Tran P.Q., Marick R.A., Ogorek J.M., DeWild J.F., Krabbenhoft D.P., McMahon K.D. *Environmental Science and Technology.* Nov. 2020, 54 (24), 15840-15851; DOI: 10.1021/acs.est.0c05435 [preprint](https://www.biorxiv.org/content/10.1101/2020.04.01.018762v1) [publication](https://pubs.acs.org/doi/10.1021/acs.est.0c05435) [data](https://osf.io/9vwgt/)
 
