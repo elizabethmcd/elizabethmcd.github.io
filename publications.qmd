@@ -5,6 +5,10 @@ editor: visual
 
 [*Google Scholar Profile.*](https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en)
 
+## Arcadia Pubs
+
+Arcadia Science is [reimagining scientific publishing](https://research.arcadiascience.com/reimagining-scientific-publishing) and does not publish work in traditional peer-reviewed journals. We are experimenting with sharing more modular pieces of work in a timely fashion. You can check out our projects and pubs at [research.arcadiascience.com](https://research.arcadiascience.com/). See pubs that I've specifically contributed to [here](https://research.arcadiascience.com/user/elizabeth-mcdaniel-2).
+
 ## Academic Publications
 
 *\# Denotes equal contribution.*
