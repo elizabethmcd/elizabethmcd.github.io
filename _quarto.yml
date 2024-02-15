@@ -9,13 +9,13 @@ website:
       - href: index.qmd
         text: About
       - href: publications.qmd
-        text: Publications & Projects
+        text: Pubs
       - href: contact.qmd
         text: Contact
 
 format:
   html:
-    theme: united
+    theme: cosmo dark
     css: styles.css
     toc: true
 

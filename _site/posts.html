@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Elizabeth McDaniel - Contact Information</title>
+<title>Elizabeth McDaniel - Posts</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,7 +60,37 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return;
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+
+      searchColumns: ["listing-date","listing-title","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -81,13 +113,16 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html">About</a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./publications.html">Pubs</a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./contact.html" aria-current="page">Contact</a>
-  </li>  
+    <a class="nav-link active" href="./posts.html" aria-current="page">Posts</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html">Contact</a>
+  </li>
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -99,36 +134,91 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Contact Information</h1>
+<h1 class="title">Posts</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    
-    
+
+
   </div>
-  
+
 
 </header>
 
-<p>Elizabeth McDaniel, PhD<br>
-<a href="mailto:%20elizabethmcd93@gmail.com">elizabethmcd93@gmail.com</a><br>
-</p>
-<p>The best way to contact me is at the email address above. Arcadia Science is <a href="https://research.arcadiascience.com/reimagining-scientific-publishing">reimagining scientific publishing</a> and does not publish our work in traditional peer-reviewed journals. <strong>Therefore, I do not accept requests to review for peer-reviewed journals.</strong> However, Arcadia Science regularly engages in reviewing preprints and posting public comments. You can view the public comments I’ve made on preprints through <a href="https://hypothes.is/users/elizabeth.mcdaniel">Hypothesis</a>. If you have a preprint that you think I might be interested in reviewing, please email me with the preprint link and I will do my best to review it and post a public comment. My expertise spans environmental microbiology and computational biology, with specific emphasis on microbial ecology of engineered water systems and multi-omics approaches.</p>
-<p>During my PhD and postdoc, I was incredibly dedicated to practicing reproducible and open research by publicly providing associated code and datasets with each of my publications. For each manuscript on my <a href="https://elizabethmcd.github.io/publications/">Publications</a> page, I have provided a PDF copy for download, links to code workflows available on Github, datasets on Figshare, and/or genomes/meta-omics datasets available on NCBI. Should you have any problems downloading a manuscript that may be behind a paywall for you, or have any questions about my code/datasets, please do not hesitate to contact me at the email address above.</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-description" data-direction="asc">
+          Description
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-description" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Description</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-date-sort="1704096000000" data-listing-file-modified-sort="1704169477254" data-listing-reading-time-sort="0.005" data-listing-title-sort="2024-01-01-test" data-listing-filename-sort="index.qmd">
+<td class="listing-date">
+Jan 1, 2024
+</td>
+<td class="listing-title">
+<a href="./posts/2024-01-01-test/index.html" class="title">2024-01-01-test</a>
+</td>
+<td class="listing-description">
+blah
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -148,7 +238,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       toggleBodyColorMode(bsSheetEl);
     }
   }
-  toggleBodyColorPrimary();  
+  toggleBodyColorPrimary();
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -192,7 +282,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       theme: 'quarto',
       placement: 'bottom-start'
     };
-    window.tippy(el, config); 
+    window.tippy(el, config);
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
   for (var i=0; i<noterefs.length; i++) {
