@@ -12,6 +12,8 @@ website:
         text: Pubs
       - href: contact.qmd
         text: Contact
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:

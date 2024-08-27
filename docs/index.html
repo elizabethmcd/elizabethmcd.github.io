@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.0.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,15 +11,10 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
-ul.task-list li input[type="checkbox"] {
-  width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
-  vertical-align: middle;
-}
 </style>
 
 
@@ -68,11 +63,9 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+      <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Elizabeth McDaniel</span>
-    </a>
-  </div>
+  </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -86,6 +79,9 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact.html">Contact</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./resume.html">Resume</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -123,10 +119,6 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-email"></i>
      <span class="about-link-text">Email</span>
   </a>
-  <a href="https://github.com/elizabethmcd/cv/blob/master/EAM-CV.pdf" class="about-link">
-    <i class="bi bi-CV"></i>
-     <span class="about-link-text">CV</span>
-  </a>
   <a href="https://www.linkedin.com/in/elizabeth-mcdaniel-228012a0/" class="about-link">
     <i class="bi bi-linkedin"></i>
      <span class="about-link-text">LinkedIn</span>
@@ -134,9 +126,10 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<p>Hello! My name is Elizabeth McDaniel and I am a Scientist at <a href="arcadia.science">Arcadia Science</a> creating computational workflows and resources for fueling scientific discoveries. I am passionate about reproducible and open research practices, as well as helping other researchers with their analytical challenges.</p>
+<p>Hello! My name is Elizabeth McDaniel and I am a Scientist passionate about microbes, bioinformatics, resource recovery technologies, and open science.</p>
+<p>I was previously a computational scientist at <a href="arcadia.science">Arcadia Science</a>, where I worked on a variety of projects towards understanding diverse organisms across the tree of life. I created computational workflows and approaches for pilot projects and productionized tools, and contributed to pubs released on a custom non-journal-based publishing platform.</p>
 <p>I received my PhD in the <a href="https://microbiology.wisc.edu/">Microbiology Doctoral Training Program</a> at the University of Wisconsin-Madison with <a href="https://mcmahonlab.wisc.edu/">Dr.&nbsp;Katherine McMahon</a> studying lab-scale enrichment systems simulating phosphorus removal using multi-omics techniques. I earned my B.S. in Biology with a minor in Statistics at the University of Arkansas - Fayetteville and was an undergraduate research assistant in <a href="https://www.thelewislab.com/">Dr.&nbsp;Jeffrey Lewis’ Lab</a> studying natural variation of stress responses in yeast.</p>
-<p>Prior to my position at Arcadia Science, I was a postdoctoral researcher at the University of British Columbia with <a href="https://www.zielslab.com/">Dr.&nbsp;Ryan Ziels</a> and <a href="https://hallam.microbiology.ubc.ca/">Dr.&nbsp;Steven Hallam</a> in the Departments of Civil Engineering and Microbiology and Immunology working on the microbial ecology of anaerobic digestion systems.</p>
+<p>Prior to moving to industry, I was a postdoctoral researcher at the University of British Columbia with <a href="https://www.zielslab.com/">Dr.&nbsp;Ryan Ziels</a> and <a href="https://hallam.microbiology.ubc.ca/">Dr.&nbsp;Steven Hallam</a> in the Departments of Civil Engineering and Microbiology and Immunology working on the microbial ecology of anaerobic digestion systems.</p>
 <p>You can find more information about current projects I’m working on and prior academic publications on the <a href="./publications.html">Publications &amp; Projects</a> page and my <a href="./contact.html">contact information</a>.</p>
 
 
@@ -205,8 +198,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      let href = ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

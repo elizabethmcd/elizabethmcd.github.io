@@ -1,0 +1,5 @@
+--- 
+editor: visual
+---
+
+![](resume/McDaniel_Resume.pdf){width="100%" height="800"}
