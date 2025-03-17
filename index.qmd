@@ -21,12 +21,12 @@ about:
       href: https://www.linkedin.com/in/elizabeth-mcdaniel-228012a0/
 ---
 
-Hello! My name is Elizabeth McDaniel and I am a Scientist passionate about microbes, bioinformatics, resource recovery technologies, and open science.
+Hello! My name is Elizabeth McDaniel and I am a Scientist passionate about microbes, bioinformatics, and open science.
 
-I was previously a computational scientist at [Arcadia Science](arcadia.science), where I worked on a variety of projects towards understanding diverse organisms across the tree of life. I created computational workflows and approaches for pilot projects and productionized tools, and contributed to pubs released on a custom non-journal-based publishing platform.
+I'm currently a Scientist at the [Astera Institute](https://astera.org/) working on a project at the intersection of fermented foods and human health, where we are exploring how to deliver the health benefits of fermented foods to people and producing public datasets for the community.
 
-I received my PhD in the [Microbiology Doctoral Training Program](https://microbiology.wisc.edu/) at the University of Wisconsin-Madison with [Dr. Katherine McMahon](https://mcmahonlab.wisc.edu/) studying lab-scale enrichment systems simulating phosphorus removal using multi-omics techniques. I earned my B.S. in Biology with a minor in Statistics at the University of Arkansas - Fayetteville and was an undergraduate research assistant in [Dr. Jeffrey Lewis' Lab](https://www.thelewislab.com/) studying natural variation of stress responses in yeast.
+Previously I was a computational scientist at [Arcadia Science](https://www.arcadiascience.com/), where I created computational tools and approaches towards understanding diverse organisms across the tree of life, and contributed to pubs released through a non-journal based publishing platform. Prior to moving to industry, I was a postdoctoral researcher at the University of British Columbia in the Departments of Civil Engineering and Microbiology and Immunology working on the microbial ecology of anaerobic digestion systems.
 
-Prior to moving to industry, I was a postdoctoral researcher at the University of British Columbia with [Dr. Ryan Ziels](https://www.zielslab.com/) and [Dr. Steven Hallam](https://hallam.microbiology.ubc.ca/) in the Departments of Civil Engineering and Microbiology and Immunology working on the microbial ecology of anaerobic digestion systems.
+I received my PhD in the [Microbiology Doctoral Training Program](https://microbiology.wisc.edu/) at the University of Wisconsin-Madison studying lab-scale enrichment systems simulating phosphorus removal using multi-omics techniques. I earned my B.S. in Biology with a minor in Statistics at the University of Arkansas - Fayetteville and did undergraduate research on the natural variation of stress responses in yeast.
 
 You can find more information about current projects I'm working on and prior academic publications on the [Publications & Projects](publications.qmd) page and my [contact information](contact.qmd).

@@ -10,6 +10,8 @@ website:
         text: About
       - href: publications.qmd
         text: Pubs
+      - href: posts.qmd
+        text: Posts
       - href: contact.qmd
         text: Contact
       - href: resume.qmd

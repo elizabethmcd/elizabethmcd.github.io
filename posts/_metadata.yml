@@ -1,0 +1,4 @@
+# Default metadata for all posts
+title-block-banner: true
+author: "Your Name"
+date-format: "MMMM D, YYYY"

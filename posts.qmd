@@ -1,7 +1,14 @@
 ---
 title: "Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, description, categories]
+  field-display-names:
+    description: "Short Description"
+    categories: "Tags"
 ---
-
-| Date       | Post                                       | Short Description |
-|------------|--------------------------------------------|-------------------|
-| 2024-01-01 | [test](./posts/2024-01-01-test/index.html) | blah              |
