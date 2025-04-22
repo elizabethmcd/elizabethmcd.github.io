@@ -7,7 +7,7 @@ editor: visual
 
 ## Arcadia Pubs
 
-Arcadia Science is [reimagining scientific publishing](https://research.arcadiascience.com/reimagining-scientific-publishing) and does not publish work in traditional peer-reviewed journals. You can check out their published work at [research.arcadiascience.com](https://research.arcadiascience.com/). See pubs that I specifically contributed to [here](https://research.arcadiascience.com/user/elizabeth-mcdaniel-2), with a select few pubs listed below that I led:
+Arcadia Science is [reimagining scientific publishing](https://research.arcadiascience.com/reimagining-scientific-publishing) and does not publish work in traditional peer-reviewed journals. You can check out their published work at [research.arcadiascience.com](https://research.arcadiascience.com/). See pubs that I specifically contributed to [here](https://research.arcadiascience.com/user/elizabeth-a.-mcdaniel/), with a select few pubs listed below that I led:
 
 **Discovering shared protein structure signatures connected to polyphosphate accumulation in diverse bacteria.** [pub](https://research.arcadiascience.com/pub/result-ppk1-homology/release/1) [code](https://github.com/Arcadia-Science/2023-polyphosphate) [data](https://zenodo.org/records/8378182) Avasthi P, Celebi FM, **McDaniel EA**. 2023. DOI: 10.57844/arcadia-ac10-23e7
 
