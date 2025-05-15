@@ -4,9 +4,9 @@ editor: visual
 ---
 
 Elizabeth McDaniel, PhD\
-[elizabethmcd93\@gmail.com](mailto:%20elizabethmcd93@gmail.com)\
+elizabethmcd93 @ gmail.com
 
-The best way to contact me is at the email address above.
+The best way to contact me is at the email address above, without spaces (attempting to dodge spam emails).
 
 **I no longer accept requests to review for peer-reviewed journals with closed review practices.** However, I do enjoy reviewing preprints and posting public comments. If you have a preprint that you think I might be interested in reviewing, please email me with the preprint link. My expertise spans environmental microbiology, with specific emphasis on microbial ecology of engineered water systems and multi-omics approaches.
 
