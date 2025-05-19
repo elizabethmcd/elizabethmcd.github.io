@@ -1,11 +1,11 @@
 ---
-title: "Pubs"
+title: "Work"
 editor: visual
 ---
 
 [*Google Scholar Profile.*](https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en)
 
-## Arcadia Pubs
+## Arcadia Science
 
 Arcadia Science is [reimagining scientific publishing](https://research.arcadiascience.com/reimagining-scientific-publishing) and does not publish work in traditional peer-reviewed journals. You can check out their work at [research.arcadiascience.com](https://research.arcadiascience.com/). See pubs that I specifically contributed to [here](https://research.arcadiascience.com/user/elizabeth-a.-mcdaniel/), with a select few pubs listed below that I led:
 
@@ -19,7 +19,7 @@ Arcadia Science is [reimagining scientific publishing](https://research.arcadias
 
 *\# Denotes equal contribution.*
 
-**16. Sulfate Reduction Drives Elevated Methylmercury Formation in the Water Column of a Eutrophic Freshwater Lake. ** [publication](https://pubs.acs.org/doi/full/10.1021/acs.est.4c12759). Peterson B.D., Janssen S.E., Poulin B.A., Ogorek J.M., White A.M., **McDaniel E.A.**, Marick R.A., Armstrong G.J., Scheel N.D., Tate M.T., Krabbenhoft D.P., McMahon K.D. *Environmental Science and Technology.* Mar. 2025. DOI: 10.1021/acs.est.4c12759. 
+**16. Sulfate Reduction Drives Elevated Methylmercury Formation in the Water Column of a Eutrophic Freshwater Lake.** [publication](https://pubs.acs.org/doi/full/10.1021/acs.est.4c12759). Peterson B.D., Janssen S.E., Poulin B.A., Ogorek J.M., White A.M., **McDaniel E.A.**, Marick R.A., Armstrong G.J., Scheel N.D., Tate M.T., Krabbenhoft D.P., McMahon K.D. *Environmental Science and Technology.* Mar. 2025. DOI: 10.1021/acs.est.4c12759.
 
 **15. Diverse electron carriers drive syntrophic interactions in an enriched anaerobic acetate-oxidizing consortium.** [publication](https://www.nature.com/articles/s41396-023-01542-6) [code](https://github.com/ZielsLab/SAOB_Metaproteogenomics) [data](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA885503) **McDaniel E.A**, Scarborough M., Mulat D.G., Lin X., Sampara P.S., Olson H.M., Young R.P., Eder E.K., Attah I.K., Markillie L.M., Hoyt D.W., Lipton M.S., Hallam S.J., Ziels R.M. *ISMEJ.* Oct. 2023. DOI: 10.1038/s41396-023-01542-6.
 
