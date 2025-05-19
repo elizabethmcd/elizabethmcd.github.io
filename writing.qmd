@@ -13,6 +13,10 @@ listing:
     categories: "Tags"
 ---
 
-I'm writing something new!!
+### Microbial Economy
 
-new!
+I write on Substack about [The Microbial Economy](https://themicrobialeconomy.substack.com/?r=uckqe&utm_campaign=pub-share-checklist), a dedicated newsletter about how microbial technologies make it (or not) to the marketplace.
+
+### Personal Blog
+
+Below are one-off posts about various topics, which span from generic advice to random musings.
