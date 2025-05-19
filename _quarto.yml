@@ -8,10 +8,10 @@ website:
     right:
       - href: index.qmd
         text: About
-      - href: publications.qmd
-        text: Pubs
-      - href: posts.qmd
-        text: Posts
+      - href: work.qmd
+        text: Work
+      - href: writing.qmd
+        text: Writing
       - href: contact.qmd
         text: Contact
       - href: resume.qmd

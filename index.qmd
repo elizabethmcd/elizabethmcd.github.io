@@ -29,4 +29,4 @@ Previously I was a computational scientist at [Arcadia Science](https://www.arca
 
 I received my PhD in the [Microbiology Doctoral Training Program](https://microbiology.wisc.edu/) at the University of Wisconsin-Madison studying lab-scale enrichment systems simulating phosphorus removal using multi-omics techniques. I earned my B.S. in Biology with a minor in Statistics at the University of Arkansas - Fayetteville and did undergraduate research on the natural variation of stress responses in yeast.
 
-You can find more information about current projects I'm working on and prior academic publications on the [Publications & Projects](publications.qmd) page and my [contact information](contact.qmd).
+You can find more information about [my work](work.qmd), what I'm [writing about](writing.qmd), and how to get [in contact](contact.qmd) with me! 

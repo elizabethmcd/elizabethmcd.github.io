@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "Writing"
 listing:
   contents: posts
   sort: "date desc"
@@ -12,3 +12,7 @@ listing:
     description: "Short Description"
     categories: "Tags"
 ---
+
+I'm writing something new!!
+
+new!
