@@ -1,6 +1,6 @@
 ---
 title: Elizabeth McDaniel
-image: img/profile.png
+image: img/updated_profile.png
 page-layout: full
 about:
   template: trestles
