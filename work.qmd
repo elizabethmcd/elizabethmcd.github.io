@@ -18,7 +18,7 @@ Interactively explore functional annotations for a subset of bacterial genomes f
 
 ## Arcadia Science
 
-Arcadia Science is [reimagining scientific publishing](https://research.arcadiascience.com/reimagining-scientific-publishing) and does not publish work in traditional peer-reviewed journals. You can check out their work at [research.arcadiascience.com](https://research.arcadiascience.com/). See pubs that I specifically contributed to [here](https://research.arcadiascience.com/user/elizabeth-a.-mcdaniel/), with a select few pubs listed below that I led:
+Arcadia Science is [reimagining scientific publishing](https://research.arcadiascience.com/reimagining-scientific-publishing) and does not publish work in traditional peer-reviewed journals. You can check out their work at [research.arcadiascience.com](https://research.arcadiascience.com/). See pubs that I specifically contributed to [here](https://thestacks.org/users/4201), with a select few pubs listed below that I led:
 
 *Authors are listed in alphabetical order and not by pub contribution*
 
