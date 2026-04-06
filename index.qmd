@@ -21,11 +21,9 @@ about:
       href: https://www.linkedin.com/in/elizabeth-a-mcdaniel/
 ---
 
-Hello! My name is Elizabeth McDaniel and I am a scientist passionate about bioinformatics, reproducibility, and open science.
+Hello! My name is Elizabeth McDaniel and I am a scientist turned founder building at the intersection of fermentation science, functional ingredients, and human microbiome health. I'm the CSO and co-founder of Groat Bio, a fermented functional ingredients company with the goal of making the health benefits of fermented foods accessible.
 
-I'm currently a computational biologist at [Microcosm Foods](https://microcosmfoods.com/), a company working towards making the benefits of fermented foods accessible to all through open datasets and novel products. Microcosm Foods is currently incubated at the [Astera Institute](https://astera.org/), a nonprofit focused on producing public goods.
-
-Previously, I was a scientist at [Arcadia Science](https://www.arcadiascience.com/), where I created computational tools and workflows for harnessing the evolutionary biology of diverse organisms across the tree of life for developing novel therapeutics, and contributed to pubs released through a non-journal based publishing platform.
+I was previously a computational biologist at [Microcosm Foods](https://microcosmfoods.com/), a research organization previously funded by the [Astera Institute](https://astera.org/), working towards making the benefits of fermented foods accessible to all through open datasets and novel products. Before I was a computational scientist at [Arcadia Science](https://www.arcadiascience.com/), where I created computational tools and workflows for harnessing the evolutionary biology of diverse organisms across the tree of life for developing novel therapeutics, and contributed to pubs released through a non-journal based publishing platform.
 
 I received my PhD in the [Microbiology Doctoral Training Program](https://microbiology.wisc.edu/) at the University of Wisconsin-Madison studying lab-scale enrichment systems simulating phosphorus removal using multi-omics techniques. Prior to moving to industry, I was a postdoctoral researcher at the University of British Columbia in the Departments of Civil Engineering and Microbiology and Immunology working on the microbial ecology of anaerobic digestion systems.
 
