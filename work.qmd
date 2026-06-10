@@ -7,8 +7,13 @@ Listed below are links to the work I've contributed to in various industry setti
 [Google Scholar Profile](https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en). For all publications I've made a concerted effort to provide links to open access versions of the article or preprint, the underlying code, and data repositories. If you have trouble accessing a paper, dataset, or code, please don't hesitate to [contact me](contact.qmd)!
 
 ## Microcosm Foods
-All Microcosm Foods datasets are deposited primarily through Zenodo with a CC0 open-access license. Additionally we have partnered with other organizations to make datasets such as curated microbial genomes from fermented foods and annotated bacterial genomes available. 
+Microcosm Foods was a residency project funded by the Astera Institute with the goal of producing public datasets and publishing results through non-journal formats. We primarily released all of our datasets through Zenodo with CC0 open-access licenses, all computational workflows available on GitHub through MIT licenses, and deposited raw sequencing data on NCBI. Below are preprints that I contributed to while at Microcosm Foods and links to our open datasets. 
 
+### Microcosm Foods Preprints
+**Leveraging publicly available datasets and machine learning approaches for predicting the health benefits of fermented foods.** [preprint](https://www.biorxiv.org/content/10.64898/2026.03.05.709865v1.full) **McDaniel EA**, Edilor C., Schertler M., Dutton R. *bioRxiv.* 2026. DOI:10.64898/2026.03.05.709865
+
+
+### Microcosm Foods Open Datasets and Collaborations
 Explore [Microcosm Foods Datasets on Zenodo ](https://zenodo.org/communities/microcosmfoods/records?q=&l=list&p=1&s=10&sort=newest) such as curated genomes, annotations, and peptide bioactivity predictions using machine learning classifications.
 
 Interactively explore a [curated set of microbial genomes from fermented foods](https://kbase.us/n/218406/47/) on KBase, a free platform for curating, analyzing, and sharing genomes.

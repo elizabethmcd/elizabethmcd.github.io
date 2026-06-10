@@ -6,8 +6,93 @@ editor: visual
 Elizabeth McDaniel, PhD\
 elizabethmcd93 @ gmail.com
 
-The best way to contact me is at the email address above, without spaces (attempting to dodge spam emails).
+The best way to contact me is at the email address above, with spaces removed.
 
-**I no longer accept requests to review for peer-reviewed journals with closed review practices.** However, I do enjoy reviewing preprints and posting public comments. If you have a preprint that you think I might be interested in reviewing, please email me with the preprint link. My expertise spans environmental microbiology, with specific emphasis on microbial ecology of engineered water systems and multi-omics approaches.
+## Requests for Peer Review & Public Comments
 
-During my PhD and postdoc, I was incredibly dedicated to practicing reproducible and open research by publicly providing associated code and datasets with each of my publications. For each manuscript on my [Publications](https://elizabethmcd.github.io/publications/) page, I have provided a PDF copy for download, links to code workflows available on Github, datasets on Figshare, and/or genomes/meta-omics datasets available on NCBI. Should you have any problems downloading a manuscript that may be behind a paywall for you, or have any questions about my code/datasets, please do not hesitate to contact me at the email address above.
+**I no longer accept requests to review for peer-reviewed journals with closed review practices.** However, I do enjoy reviewing preprints and posting public comments. If you have a preprint that you think I might be interested in reviewing, please email me with the preprint link. My expertise spans microbiology, multi-omics approaches, and open source software.
+
+I post comments publicly on bioRxiv and medRxiv preprints through [Hypothesis](https://web.hypothes.is/). You can see the public comments I've made below.
+
+
+```{=html}
+<!-- Hypothesis feed. Set data-hyp-user to your hypothes.is username (without the @hypothes.is). -->
+<div id="hypothesis-feed" data-hyp-user="elizabethmcd" data-hyp-limit="20">
+  <p class="hyp-status">Loading recent annotations…</p>
+</div>
+
+<style>
+#hypothesis-feed .hyp-list { list-style: none; padding: 0; margin: 0; }
+#hypothesis-feed .hyp-item { padding: 1rem 0; border-bottom: 1px solid rgba(128,128,128,0.25); }
+#hypothesis-feed .hyp-item:last-child { border-bottom: none; }
+#hypothesis-feed .hyp-meta { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5rem; align-items: baseline; }
+#hypothesis-feed .hyp-meta a { font-weight: 600; }
+#hypothesis-feed .hyp-date { font-size: 0.85rem; opacity: 0.7; white-space: nowrap; }
+#hypothesis-feed .hyp-quote { margin: 0.5rem 0; padding: 0.4rem 0.9rem; border-left: 3px solid rgba(128,128,128,0.5); font-style: italic; opacity: 0.85; }
+#hypothesis-feed .hyp-text { margin: 0.4rem 0; white-space: pre-wrap; }
+#hypothesis-feed .hyp-tags { margin-top: 0.4rem; }
+#hypothesis-feed .hyp-tag { display: inline-block; font-size: 0.75rem; padding: 0.1rem 0.5rem; margin: 0.15rem 0.3rem 0 0; border-radius: 999px; background: rgba(128,128,128,0.18); }
+#hypothesis-feed .hyp-status { opacity: 0.7; }
+</style>
+
+<script>
+(function () {
+  var container = document.getElementById('hypothesis-feed');
+  if (!container) return;
+  var username = (container.getAttribute('data-hyp-user') || '').trim();
+  var limit = container.getAttribute('data-hyp-limit') || 20;
+
+  if (!username || username === 'REPLACE_WITH_HYPOTHESIS_USERNAME') {
+    container.innerHTML = '<p class="hyp-status">Set your hypothes.is username in the page source to enable this feed.</p>';
+    return;
+  }
+
+  var api = 'https://hypothes.is/api/search?limit=' + encodeURIComponent(limit) +
+            '&sort=updated&order=desc&user=acct:' +
+            encodeURIComponent(username) + '%40hypothes.is';
+
+  function esc(s) { var d = document.createElement('div'); d.textContent = s == null ? '' : s; return d.innerHTML; }
+  function fmtDate(iso) {
+    try { return new Date(iso).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' }); }
+    catch (e) { return iso; }
+  }
+  function quoteOf(row) {
+    var sel = (row.target && row.target[0] && row.target[0].selector) || [];
+    for (var i = 0; i < sel.length; i++) { if (sel[i].type === 'TextQuoteSelector') return sel[i].exact; }
+    return '';
+  }
+
+  fetch(api, { headers: { 'Accept': 'application/json' } })
+    .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(function (data) {
+      // Keep only annotations that carry a written comment (skip bare highlights).
+      var rows = (data.rows || []).filter(function (r) { return r.text && r.text.trim(); });
+      if (!rows.length) { container.innerHTML = '<p class="hyp-status">No public annotations yet.</p>'; return; }
+
+      var html = '<ul class="hyp-list">';
+      rows.forEach(function (row) {
+        var link = (row.links && row.links.incontext) || row.uri;
+        var title = (row.document && row.document.title && row.document.title[0]) || row.uri;
+        var quote = quoteOf(row);
+        html += '<li class="hyp-item">';
+        html += '<div class="hyp-meta"><a href="' + esc(link) + '" target="_blank" rel="noopener">' + esc(title) + '</a>';
+        html += '<span class="hyp-date">' + esc(fmtDate(row.updated)) + '</span></div>';
+        if (quote) html += '<blockquote class="hyp-quote">' + esc(quote) + '</blockquote>';
+        html += '<div class="hyp-text">' + esc(row.text) + '</div>';
+        if (row.tags && row.tags.length) {
+          html += '<div class="hyp-tags">';
+          row.tags.forEach(function (tg) { html += '<span class="hyp-tag">' + esc(tg) + '</span>'; });
+          html += '</div>';
+        }
+        html += '</li>';
+      });
+      html += '</ul>';
+      container.innerHTML = html;
+    })
+    .catch(function (err) {
+      container.innerHTML = '<p class="hyp-status">Could not load annotations right now.</p>';
+      console.error('Hypothesis feed error:', err);
+    });
+})();
+</script>
+```

@@ -18,7 +18,7 @@
     "href": "work.html#microcosm-foods",
     "title": "Work",
     "section": "Microcosm Foods",
-    "text": "Microcosm Foods\nAll Microcosm Foods datasets are deposited primarily through Zenodo with a CC0 open-access license. Additionally we have partnered with other organizations to make datasets such as curated microbial genomes from fermented foods and annotated bacterial genomes available.\nExplore Microcosm Foods Datasets on Zenodo such as curated genomes, annotations, and peptide bioactivity predictions using machine learning classifications.\nInteractively explore a curated set of microbial genomes from fermented foods on KBase, a free platform for curating, analyzing, and sharing genomes.\nInteractively explore functional annotations for a subset of bacterial genomes from fermented foods on Tatta Bio’s SeqHub platform, and read about our partnership here."
+    "text": "Microcosm Foods\nMicrocosm Foods was a residency project funded by the Astera Institute with the goal of producing public datasets and publishing results through non-journal formats. We primarily released all of our datasets through Zenodo with CC0 open-access licenses, all computational workflows available on GitHub through MIT licenses, and deposited raw sequencing data on NCBI. Below are preprints that I contributed to while at Microcosm Foods and links to our open datasets.\n\nMicrocosm Foods Preprints\nLeveraging publicly available datasets and machine learning approaches for predicting the health benefits of fermented foods. preprint McDaniel EA, Edilor C., Schertler M., Dutton R. bioRxiv. 2026. DOI:10.64898/2026.03.05.709865\n\n\nMicrocosm Foods Open Datasets and Collaborations\nExplore Microcosm Foods Datasets on Zenodo such as curated genomes, annotations, and peptide bioactivity predictions using machine learning classifications.\nInteractively explore a curated set of microbial genomes from fermented foods on KBase, a free platform for curating, analyzing, and sharing genomes.\nInteractively explore functional annotations for a subset of bacterial genomes from fermented foods on Tatta Bio’s SeqHub platform, and read about our partnership here."
   },
   {
     "objectID": "work.html#arcadia-science",
@@ -49,11 +49,25 @@
     "text": "Footnotes\n\n\nMy personal circumstances when I was a postdoc looking for industry jobs: I started my PhD in Microbiology in fall of 2016 and finished in summer of 2021. I did a short ~10 month postdoc and started looking for industry jobs in spring of 2022. My background is microbial metagenomics/multi-’omics, and I have some amount of wet-lab experience. Since fall of 2022 I’ve worked in industry settings in the San Francisco Bay Area, albeit not those super typical of traditional biotech. If I remember correctly, I applied to 5 jobs in industry – 2 never responded, 1 responded 5 months later (after I had a job offer), I had 1 informational interview before the company had a hiring freeze, and I had 1 full set of interviews that led to a job offer. All the jobs I applied to were computational biology/bioinformatics scientist roles with a metagenomics/microbial focus and I was looking to be on-site full-time with whatever job offer I ended up with, as it was just me and my cat and I wasn’t specifically constrained on geographic location.↩︎\nI have no idea if any of these learnings actually help with finding a job, especially in the current job market environment. Since I’ve only worked in two non-traditional companies that are sort of like early-stage startups, I also don’t know if these learnings are useful to applying to larger companies or in the government sector. I’ve seen some of these things recommended by other people, but YMMV.↩︎"
   },
   {
+    "objectID": "consulting.html",
+    "href": "consulting.html",
+    "title": "Consulting",
+    "section": "",
+    "text": "I offer consulting services in three areas where I bring deep, detail-oriented expertise from a career spanning industry, academic research, open science, and co-founding a startup at the intersection of microbiome science and human health. My expertise spans microbiology, multi-omics and bioinformatics, and open science.\nIf any of the areas below sound like a fit or to discuss a project, please reach out via the email address on my contact page with a brief description of what you’re looking for, and I’ll follow up to talk through scope and fit.\n\n\n  \n    \n      \n        \n        \n        \n        \n        \n      \n    \n    Investment Due Diligence\n    Scientific and technical diligence on microbiology & 'omics biotech opportunities. \n  \n\n  \n    \n      \n        \n        \n        \n        \n        \n        \n      \n    \n    Bioinformatics\n    Multi-omics analysis of microbial systems, including human microbiome studies and complex environments. Build reproducible, open computational pipelines and infrastructure setup for early-stage companies.\n  \n\n  \n    \n      \n        \n        \n        \n        \n        \n      \n    \n    Grant Writing\n    Drafting, structuring, and sharpening proposals so the science, innovation, and impact come through clearly — including pre-submission review and well-scoped aims."
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact Information",
     "section": "",
-    "text": "Elizabeth McDaniel, PhD\nelizabethmcd93 @ gmail.com\nThe best way to contact me is at the email address above, without spaces (attempting to dodge spam emails).\nI no longer accept requests to review for peer-reviewed journals with closed review practices. However, I do enjoy reviewing preprints and posting public comments. If you have a preprint that you think I might be interested in reviewing, please email me with the preprint link. My expertise spans environmental microbiology, with specific emphasis on microbial ecology of engineered water systems and multi-omics approaches.\nDuring my PhD and postdoc, I was incredibly dedicated to practicing reproducible and open research by publicly providing associated code and datasets with each of my publications. For each manuscript on my Publications page, I have provided a PDF copy for download, links to code workflows available on Github, datasets on Figshare, and/or genomes/meta-omics datasets available on NCBI. Should you have any problems downloading a manuscript that may be behind a paywall for you, or have any questions about my code/datasets, please do not hesitate to contact me at the email address above."
+    "text": "Elizabeth McDaniel, PhD\nelizabethmcd93 @ gmail.com\nThe best way to contact me is at the email address above, with spaces removed."
+  },
+  {
+    "objectID": "contact.html#requests-for-peer-review-public-comments",
+    "href": "contact.html#requests-for-peer-review-public-comments",
+    "title": "Contact Information",
+    "section": "Requests for Peer Review & Public Comments",
+    "text": "Requests for Peer Review & Public Comments\nI no longer accept requests to review for peer-reviewed journals with closed review practices. However, I do enjoy reviewing preprints and posting public comments. If you have a preprint that you think I might be interested in reviewing, please email me with the preprint link. My expertise spans microbiology, multi-omics approaches, and open source software.\nI post comments publicly on bioRxiv and medRxiv preprints through Hypothesis. You can see the public comments I’ve made below.\n\n\n  Loading recent annotations…"
   },
   {
     "objectID": "posts/2025-05-19-grad-school/index.html",
@@ -77,17 +91,17 @@
     "text": "Every time I move apartments or find myself twiddling my thumbs on delayed transit, I ask myself the same question. Why do I have so many physical books and not yet indulged in the convenience and space-saving wonders of an e-reader? It’s a question my mother also asks me constantly with a horrified look at my bookshelves as she tries to add up how much I’ve spent on hardbacks (always a waste to not wait for the paperback version, in her opinion).\nBut over time, I’ve found a lot of reasons to love reading and keep buying physical books, some of them surprisingly pro-social, which have kept me from buying an e-reader."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Elizabeth McDaniel",
-    "section": "",
-    "text": "Hello! My name is Elizabeth McDaniel and I am a scientist turned founder building at the intersection of fermentation science, functional ingredients, and human microbiome health. I’m the CSO and co-founder of Groat Bio, a fermented functional ingredients company with the goal of making the health benefits of fermented foods accessible.\nI was previously a computational biologist at Microcosm Foods, a research organization previously funded by the Astera Institute, working towards making the benefits of fermented foods accessible to all through open datasets and novel products. Before I was a computational scientist at Arcadia Science, where I created computational tools and workflows for harnessing the evolutionary biology of diverse organisms across the tree of life for developing novel therapeutics, and contributed to pubs released through a non-journal based publishing platform.\nI received my PhD in the Microbiology Doctoral Training Program at the University of Wisconsin-Madison studying lab-scale enrichment systems simulating phosphorus removal using multi-omics techniques. Prior to moving to industry, I was a postdoctoral researcher at the University of British Columbia in the Departments of Civil Engineering and Microbiology and Immunology working on the microbial ecology of anaerobic digestion systems.\nYou can find more information about my work, what I’m writing about, and how to get in contact with me!"
-  },
-  {
     "objectID": "posts/2026-06-01-physical-books/index.html#footnotes",
     "href": "posts/2026-06-01-physical-books/index.html#footnotes",
     "title": "For the love of physical books",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nEveryone should have a Goodreads, IMO.↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elizabeth McDaniel",
+    "section": "",
+    "text": "Hello! My name is Elizabeth McDaniel and I am a scientist turned founder building at the intersection of microbiome science, ’omics, and human health. I’m the CSO and co-founder of Groat Bio, a fermented functional ingredients company with the goal of making the health benefits of fermented foods accessible to all.\nI’ve focused my career on the multi-omics of microbial systems, ranging from engineered wastewater systems, freshwater lakes, and fermented foods. I’ve previously been a computational scientist at Microcosm Foods, a research organization funded by the Astera Institute, and Arcadia Science. I’ve also been passionate about open science, and I’ve worked towards building open, reproducible computational workflows and datasets in my academic and industry careers.\nI received my PhD in the Microbiology Doctoral Training Program at the University of Wisconsin-Madison studying lab-scale enrichment systems simulating phosphorus removal using multi-omics techniques. Prior to moving to industry, I was a postdoctoral researcher at the University of British Columbia in the Departments of Civil Engineering and Microbiology and Immunology working on the microbial ecology of anaerobic digestion systems.\nYou can find more information about my work, what I’m writing about, and how to get in contact with me!"
   }
 ]

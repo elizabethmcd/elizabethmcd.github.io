@@ -12,6 +12,8 @@ website:
         text: Work
       - href: writing.qmd
         text: Writing
+      - href: consulting.qmd
+        text: Consulting
       - href: contact.qmd
         text: Contact
       - href: resume.qmd
